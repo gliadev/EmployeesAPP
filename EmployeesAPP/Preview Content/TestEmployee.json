@@ -1,0 +1,110 @@
+[
+  {
+    "email": "franciscopepe@gmail.com",
+    "department": {
+      "name": "Accounting",
+      "id": 1
+    },
+    "gender": {
+      "id": 2,
+      "gender": "Female"
+    },
+    "firstName": "Paco José",
+    "avatar": "https://robohash.org/enimsolutaperferendis.png",
+    "username": "",
+    "lastName": "Pepiño Márquez",
+    "address": "",
+    "id": 1020,
+    "zipcode": 11111
+  },
+  {
+    "lastName": "Cochet",
+    "zipcode": "38030 CEDEX 2",
+    "address": "53841 Elka Alley",
+    "email": "ncochetn@typepad.com",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "firstName": "Nowell",
+    "avatar": "https://robohash.org/doloresteneturvero.png",
+    "id": 24,
+    "username": "ncochetn",
+    "department": {
+      "id": 7,
+      "name": "Product Management"
+    }
+  },
+  {
+    "address": "97 Transport Crossing",
+    "email": "ckighlyo@ask.com",
+    "department": {
+      "name": "Training",
+      "id": 12
+    },
+    "id": 25,
+    "lastName": "Kighly",
+    "username": "ckighlyo",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "avatar": "https://robohash.org/autconsequaturofficia.png",
+    "firstName": "Costa",
+    "zipcode": "33060 CEDEX"
+  },
+  {
+    "firstName": "Raddie",
+    "lastName": "Delue",
+    "gender": {
+      "id": 1,
+      "gender": "Male"
+    },
+    "avatar": "https://robohash.org/facereblanditiisquam.png",
+    "address": "814 Sunnyside Street",
+    "username": "rdeluep",
+    "id": 26,
+    "department": {
+      "name": "Research and Development",
+      "id": 8
+    },
+    "zipcode": "",
+    "email": "rdeluep@dell.com"
+  },
+  {
+    "lastName": "Thunnercliff",
+    "firstName": "Currie",
+    "address": "2 Summit Trail",
+    "department": {
+      "id": 11,
+      "name": "Support"
+    },
+    "username": "cthunnercliffr",
+    "gender": {
+      "id": 1,
+      "gender": "Male"
+    },
+    "zipcode": "",
+    "email": "cthunnercliffr@theatlantic.com",
+    "avatar": "https://robohash.org/ipsamdoloribusaccusamus.png",
+    "id": 28
+  },
+  {
+    "firstName": "Mickey",
+    "lastName": "Engall",
+    "gender": {
+      "id": 1,
+      "gender": "Male"
+    },
+    "avatar": "https://robohash.org/beataevelitnam.png",
+    "address": "3251 Shopko Alley",
+    "username": "mengalls",
+    "id": 29,
+    "department": {
+      "name": "Engineering",
+      "id": 3
+    },
+    "zipcode": "",
+    "email": "mengalls@unesco.org"
+  }
+]
